@@ -1,9 +1,9 @@
 ﻿{
     "AppSettings": {
-        "SiteTitle": "ASP.NET MVC Music Store"
+        "SiteTitle": "Company Store"
     },
-    "DefaultAdminUsername": "Administrator@test.com",
-    "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
+    "DefaultAdminUsername": "jvance@askcts.com",
+    "DefaultAdminPassword": "cts!cts@",
     "Data": {
         "DefaultConnection": {
             // Use a shared (and running) LocalDB database when executing in IIS e.g.
